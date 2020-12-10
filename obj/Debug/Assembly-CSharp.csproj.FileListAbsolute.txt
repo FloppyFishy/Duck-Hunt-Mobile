@@ -1,0 +1,2 @@
+D:\Unity\Duck Hunt Mobile\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Unity\Duck Hunt Mobile\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
